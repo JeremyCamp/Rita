@@ -8,7 +8,7 @@ fetch(users)
         const user = document.querySelector(".user");
         const password = document.querySelector(".password");
         if(user.value == data.users[0].name && password.value == data.users[0].password){
-            window.open("/menu.html")
+            window.open("./menu.html")
         }
         else {
             alert("Veuillez verifier vos information de connection");
