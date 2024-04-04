@@ -1,0 +1,71 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Joey",
+        "password": "okletsgo",
+        "isAdmin": true
+      },
+      {
+        "id": 2,
+        "name": "Jay",
+        "password": "tabarnak",
+        "isAdmin": true
+      },
+      {
+        "id": 3,
+        "name": "Bradon",
+        "password": "chartreuse",
+        "isAdmin": false
+      },
+      {
+        "id": 4,
+        "name": "Bert",
+        "password": "peperonni",
+        "isAdmin": false
+      },
+      {
+        "id": 5,
+        "name": "Matt",
+        "password": "largement",
+        "isAdmin": false
+      },
+      {
+        "id": 6,
+        "name": "Jerem",
+        "password": "oulah",
+        "isAdmin": true
+      },
+      {
+        "id": 7,
+        "name": "User 7",
+        "password": "password7",
+        "isAdmin": false
+      },
+      {
+        "id": 8,
+        "name": "User 8",
+        "password": "password8",
+        "isAdmin": false
+      },
+      {
+        "id": 9,
+        "name": "User 9",
+        "password": "password9",
+        "isAdmin": false
+      },
+      {
+        "id": 10,
+        "name": "User 10",
+        "password": "password10",
+        "isAdmin": false
+      },
+      {
+        "id": 11,
+        "name": "User 11",
+        "password": "password11",
+        "isAdmin": false
+      }
+    ]
+  }
+  
