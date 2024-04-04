@@ -1,4 +1,4 @@
-const users = "./JSON/users.json";
+const users = "./FRONT/JSON/users.json";
 
 fetch(users)
   .then(response => response.json())
@@ -8,10 +8,10 @@ fetch(users)
         const user = document.querySelector(".user");
         const password = document.querySelector(".password");
         if(user.value == data.users[0].name && password.value == data.users[0].password){
-            window.open("./menu.html")
+            window.open("/menu.html")
         }
         else {
-            console.log("Veuillez verifier vos information de connection");
+            alert("Veuillez verifier vos information de connection");
         }
     })
   })
