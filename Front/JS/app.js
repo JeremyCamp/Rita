@@ -1,4 +1,4 @@
-const users = "./FRONT/JSON/users.json";
+const users = "./Front/JSON/users.json";
 
 fetch(users)
   .then(response => response.json())
