@@ -1,0 +1,80 @@
+{
+  "mise_en_place": {
+    "pizza_list": {
+      "id": "p001",
+      "fromages": {
+        "Smoked mozzarella": {
+          "nombre_minimum": 4
+        },
+        "Smoked cheddar": {
+          "nombre_minimum": 6
+        },
+        "Cheese Mix": {
+          "nombre_minimum": 4
+        },
+        "Pecorino": {
+          "nombre_minimum": 6
+        },
+        "Fior di late": {
+          "nombre_minimum": 6
+        },
+        "Buffarela": {
+          "nombre_minimum": 2
+        }
+      },
+      "sauces": {
+        "Tomate": {
+          "nombre_minimum": 4
+        },
+        "Vodka Sauce": {
+          "nombre_minimum": 6
+        },
+        "Black Garlic Bechamel": {
+          "nombre_minimum": 4
+        }
+      },
+      "viandes": {
+        "Saucisses": {
+          "nombre_minimum": 4
+        },
+        "Peperonni": {
+          "nombre_minimum": 6
+        },
+        "Coppa": {
+          "nombre_minimum": 4
+        }
+      },
+      "legumes": {
+        "Artichaud": {
+          "nombre_minimum": 4
+        },
+        "Peperoncini": {
+          "nombre_minimum": 6
+        },
+        "Rapini": {
+          "nombre_minimum": 4
+        }
+      },
+      "herbes": {
+        "Basil": {
+          "nombre_minimum": 4
+        },
+        "Chopped parlsey": {
+          "nombre_minimum": 6
+        },
+        "Oregano": {
+          "nombre_minimum": 4
+        }
+      }
+    },
+    "pasta_list": {
+      "id": "p006"
+    },
+    "gm_list": {
+      "id": "p007"
+    },
+    "pastry_list": {
+      "id": "p008"
+    }
+  }
+}
